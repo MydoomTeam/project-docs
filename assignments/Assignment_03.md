@@ -34,6 +34,14 @@
 
 - Debo mejorar en la retroalimentación constante al equipo, fortalecer la documentación continua y trabajar en una mejor planificación anticipada de las tareas.
 
+## 💻 Carlos Arturo Parra Camelo
+
+Me gustaría desempeñar un rol orientado al desarrollo de software, especialmente en la parte de backend, bases de datos y organización de la lógica del sistema. También me interesa apoyar en la documentación del proyecto, ya que considero importante que el equipo entienda claramente cómo está estructurada la solución y qué función cumple cada parte.
+
+Como fortalezas, considero que tengo disposición para aprender, curiosidad por entender cómo funcionan las cosas y capacidad para relacionar ideas técnicas con problemas reales. También me gusta trabajar sobre proyectos aplicados, como propuestas de emprendimiento o sistemas que puedan resolver necesidades concretas. Además, tengo interés en herramientas como Java, MySQL, Git y GitHub, que son importantes para el desarrollo colaborativo de software.
+
+Debo fortalecer mi manejo de Git y GitHub en escenarios de trabajo en equipo, especialmente en el uso de ramas, Pull Requests y resolución de conflictos. También considero que debo mejorar mi planificación del tiempo, mi comunicación constante con el equipo y profundizar más en buenas prácticas de programación, arquitectura de software y documentación técnica.
+
 # 🏭 Apartado 2
 ### Sección Grupal
 
